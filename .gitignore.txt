@@ -1,0 +1,3 @@
+EvidenciasDelDesarrollo/Manual.txt
+EvidenciasDelDesarrollo/tyler.jpg
+EvidenciasDelDesarrollo/images.png
